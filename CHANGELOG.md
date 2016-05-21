@@ -2,6 +2,17 @@ CHANGE LOG
 ==========
 
 
+## V3.3 (26/04/2016)
+
+* Added laravel 5.3 support
+
+
+## V3.2.1 (30/01/2016)
+
+* Improved service provider
+* Fixed some typos
+
+
 ## V3.2 (14/11/2015)
 
 * Added laravel 5.2 support
